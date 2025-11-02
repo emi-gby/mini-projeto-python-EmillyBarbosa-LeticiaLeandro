@@ -1,7 +1,7 @@
 # mini-projeto-python-EmillyBarbosa-LetíciaLeandro
 
 
-# 🛒**Sistema de Controle de Produtos**
+# 🛒**Sistema de Cadastro de Produtos**
 
 Um sistema simples e interativo no terminal que simula o controle de estoque de uma pequena loja e que permite cadastrar, listar, buscar, atualizar e excluir produtos.
 
