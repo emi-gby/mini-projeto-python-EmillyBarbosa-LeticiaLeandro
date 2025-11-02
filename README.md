@@ -6,6 +6,7 @@
 Um sistema simples e interativo no terminal que simula o controle de estoque de uma pequena loja e que permite cadastrar, listar, buscar, atualizar e excluir produtos.
 
 <hr>
+
 ## ⚙️ **Funcionalidades do Sistema**
 
 - **Menu principal:** O sistema mostra um menu com 6 opções.
